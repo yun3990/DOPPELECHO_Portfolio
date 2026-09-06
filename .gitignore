@@ -1,0 +1,30 @@
+# OS
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor / IDE
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+
+# Unity (이 저장소는 스크립트 전용이지만, 실수로 섞여 들어오는 것을 막는다)
+# ⚠ 흔한 Unity 템플릿의 `[Oo]bj/` 규칙은 쓰지 않는다 —
+#    이 저장소의 Obj/ 는 빌드 산출물이 아니라 게임플레이 코드다.
+Library/
+Temp/
+Logs/
+UserSettings/
+*.csproj
+*.sln
+*.slnx
+*.unitypackage
+
+# 도구 / 임시
+__pycache__/
+*.pyc
+*.log
+*.tmp
