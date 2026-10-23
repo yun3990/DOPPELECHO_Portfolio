@@ -6,7 +6,7 @@ Unity + [Mirror](https://github.com/MirrorNetworking/Mirror) 기반 비대칭 �
 > 이 저장소는 전체 프로젝트가 아니라 핵심 스크립트 13개를 발췌한 것입니다.
 > 다른 파일에 대한 참조가 남아 있어 그대로 컴파일되지 않으며, 열람용으로 구성했습니다.
 
-**플레이 영상:** [영상 링크]
+**플레이 영상:** [youtu.be/ljIi1W41QR0](https://youtu.be/ljIi1W41QR0)
 
 ---
 
